@@ -6,3 +6,18 @@ Simple WordPress plugin which cross checks registered user emails with the [http
 
 
 Simple, lightweight and free :)
+
+<hr>
+
+#### Plugin Screenshots
+
+### User List Custom Column
+![User List Screenshot](https://cldup.com/8cZgwnOxoa.png)
+
+<br />
+### User Profile Custom Alert
+![Edit Profile Custom Field](https://cldup.com/QmORkwYlRV.png)
+
+<br />
+### User Email Breach Information
+![Breach Information](https://cldup.com/-RCH9JaZgC.png)
