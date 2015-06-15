@@ -67,7 +67,7 @@ module.exports = function(grunt) {
 				src : [ 'css/min/*.min.css' , 'js/min/*.min.js' ],
 			},
 			options: {
-				proxy: "localhost/sample/",
+				proxy: "localhost/wp-svg-2/",
 				watchTask : true
 			}
 		},
