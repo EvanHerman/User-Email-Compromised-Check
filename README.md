@@ -1,2 +1,5 @@
 # Email-Compromised-Check
-WordPress plugin cross checking registered user emails with the https://haveibeenpwned.com/ API.
+
+### Inspired by all the API and Security talks at WordCamp Philly 2015.
+
+Simple WordPress plugin which cross checks registered user emails with the [https://haveibeenpwned.com/](https://haveibeenpwned.com/) API.
